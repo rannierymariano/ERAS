@@ -8,12 +8,19 @@
 </head>
 <body>
     <header>
-        <img src="logo.png" alt="logo do projeto">
-        <nav></nav>
+        <img src="logo.png" alt="logo.eras">
+        <nav>
+           <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">CONTATO</a></li>
+                <li><a href="#">SOBRE</a></li>
+           </ul>
+        </nav>
+        <h1>ERAS<h1>
     </header>
     <main>
         <section>
-            ASFD
+            
         </section>
     </main>
     <footer>

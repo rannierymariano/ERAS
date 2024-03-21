@@ -1,0 +1,15 @@
+body{
+    background-image: url("assts/img/");
+
+}
+ul {
+    display: flex;
+    flex-direction: row;
+}
+ul li{
+    list-style: none;
+    margin-right: 5%;
+}
+ul li a{
+    text-decoration: none;
+}
