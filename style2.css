@@ -16,15 +16,14 @@ ul li{
 ul li a{
     text-decoration: none;
     color: rgb(244, 244, 244);
-    font-size: 90%;     
+    font-size: 80%;     
     
 }
 header{
     
 }
 h1{
-    color: rgb(0, 136, 255);
-    font-size: 80%;
+    color: aliceblue;
     
 }
 img{
@@ -34,6 +33,4 @@ a{
     color: aliceblue;
     padding-left: 12%;
     margin-left: 3%;
-}
-
-
+    }
