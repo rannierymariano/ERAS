@@ -2,35 +2,33 @@
     padding: 0;
     margin: 0;
 }
-body{
 
-    background-image: url("../img/res.jpg");
+body{
+    background-image: url("../img/erassssss.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
-input{
-    width: 3%;
-    padding-right: 12%;
 
-}
-h1{
-    color: aliceblue;
-    font-size: 80%;
-}
-#part2{
-    width: 50%;
-    padding-top: 50%;
-    padding-left: 50%;
-    
-}
-#part1{
-    width: 50%;
-    padding-top: 50%;
-    padding-left: 50%;
-}
-
-#inicio{
-    width: 100%;
+.social-media-container {
     display: flex;
-    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.social-media-icon {
+    margin: 0 0.5rem;
+}
+
+.phone-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ddd;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.phone-text {
+    text-align: center;
 }
